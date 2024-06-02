@@ -1,0 +1,13 @@
+{
+    "example_of_the_object": {
+        "first_key_of_the_object": "content of the first key",
+        "other_object": {
+            "key1": "value1"
+        }
+    },
+    "array": [2, 5.6, [6e3, 6e-3]],
+    "inumber_key": 3,
+    "fnumber_key": 4.5,
+    "Enumber_key": 2e3,
+    "enumber_key": 3e-2
+}
